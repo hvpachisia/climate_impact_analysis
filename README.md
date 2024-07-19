@@ -17,7 +17,7 @@ Each section showcases distinct coding skills and methodologies, providing a com
 
 ## Detailed Project Descriptions
 
-### Natural Disasters in the United States: Frequency, Cost & Politics
+## Natural Disasters in the United States: Frequency, Cost & Politics
 
 This section examines the increasing frequency and cost of natural disasters in the U.S. over recent decades, along with the political responses to these changes.
 
@@ -47,7 +47,7 @@ This section examines the increasing frequency and cost of natural disasters in 
 
 Open the Dash application in your browser to view the interactive dashboard. Press `Ctrl+C` in your terminal to close the application.
 
-### RedditGoesGreen: Public Opinion on Climate Change
+## RedditGoesGreen: Public Opinion on Climate Change
 
 This section explores public opinion on climate change through advanced NLP techniques, analyzing the Reddit Climate Change Dataset.
 
@@ -71,7 +71,7 @@ This project uses advanced NLP techniques to analyze sentiment and discourse on 
 2. `eda/` folder: Contains exploratory data analysis scripts.
 3. `models/` folder: Contains scripts for various NLP models and their evaluations.
 
-### Urban Land Use Maps: Temporal Changes
+## Urban Land Use Maps: Temporal Changes
 
 This section converts static images of land use maps into interactive and classified maps for analyzing temporal changes.
 
