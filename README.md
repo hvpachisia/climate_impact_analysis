@@ -34,6 +34,7 @@ This section examines the increasing frequency and cost of natural disasters in 
 - Utilize FEMA data, Climate IRA bill voting records, and the Census API for socio-economic data.
 
 **Description:**
+
 **42.63%** of natural disasters in the U.S. since 1980 have occurred in the last 12 years, highlighting the increasing frequency and cost of such events due to climate change. This dashboard visualizes these trends, examines state-specific impacts and political stances, and identifies high-risk counties based on socio-economic factors. The data sources include [FEMA disaster data](https://www.fema.gov/openfema-data-page/disaster-declarations-summaries-v2), [public assistance data](https://www.fema.gov/openfema-data-page/public-assistance-funded-project-summaries-v1), Climate IRA bill voting records, and the [Census API](https://www.census.gov/data/developers/data-sets.html).
 
 **Running the Project:**
@@ -62,6 +63,7 @@ This section explores public opinion on climate change through advanced NLP tech
 - Extract and visualize key topics discussed in relation to climate change.
 
 **Description:**
+
 This project uses advanced NLP techniques to analyze sentiment and discourse on climate change from Reddit discussions. It evaluates the effectiveness of Transformer-based models like ClimateBERT compared to Word2Vec and uses topic modeling techniques such as LDA and BERTopic. The findings offer insights into public perceptions of climate change, valuable for policymakers, activists, and researchers.
 
 **File Structure:**
@@ -85,6 +87,7 @@ This section converts static images of land use maps into interactive and classi
 - Provide code templates for similar processes in other cities.
 
 **Description:**
+
 Most land use maps in developing countries are stored as static images in PDFs. This section, developed for the Energy Policy Institute at Chicago (EPIC), converts static images from 1972 to 2015 into interactive land use maps using computer vision and georeferencing techniques. While interactive maps cannot be shared, the provided code outlines how to perform similar processes for other cities.
 
 ## Contact Me
