@@ -1,9 +1,5 @@
 # Natural Disasters in the United States: Frequency, Cost & Politics
 
-### Team
-
-Jackie Glasheen, Harsh Vardhan Pachisia, Shwetha Srinivasan, and Jennifer Yeaton
-
 ### Description
 
 **42.63 %** of natural disasters in the United States since 1980 have taken place over the last 12 years. It is evident that climate change and global warming are causing extreme weather disasters to occur with more frequency. The increase in natural disaster declarations over the past several decades has led to the federal government spending more money on disaster relief.  Due to the increase in frequency and cost of such disasters,  a Congressional Research Service [paper](https://sgp.fas.org/crs/homesec/R45484.pdf) from January 2022 suggests that Congress may consider limiting federal disaster relief spending. 
