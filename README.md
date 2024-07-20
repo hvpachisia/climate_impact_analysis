@@ -1,4 +1,4 @@
-# Climate and Natural Disasters Analysis
+# Climate Dynamics Decoded: Analyzing Impact, Opinion, and Change
 
 ## Overview
 
